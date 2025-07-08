@@ -18,5 +18,5 @@
 - 🎨 UI Dashboard Redesign [link]
 
 ## 🔗 Let's Connect
-[![LinkedIn]([https://www.linkedin.com/in/t-s-tharrun-554869320/])
+[![LinkedIn]([https://www.linkedin.com/in/t-s-tharrun-554869320/])]
 [![Portfolio](https://img.shields.io/badge/-Portfolio-orange?style=flat&logo=web)](https://yourportfolio.com)
