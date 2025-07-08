@@ -1,16 +1,22 @@
-## Hi there 👋
+# 👋 Hi, I’m Tharrun
 
-<!--
-**Tharrun7/Tharrun7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎮 Game Dev Enthusiast | 💻 CSE Blockchain Student  
+📊 Data Science @ Cody Grow | 🎨 UI/UX Intern at Cognifyz Technologies  
 
-Here are some ideas to get you started:
+## 🔧 Tech Stack
+![Languages](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
+![React](https://img.shields.io/badge/-React-20232A?style=flat&logo=react)
+![Unreal Engine](https://img.shields.io/badge/-Unreal%20Engine-0f0f0f?style=flat&logo=unreal-engine)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📈 GitHub Stats
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Tharrun7&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Tharrun7&layout=compact&theme=radical)
+
+## 🚀 Projects
+- 🎮 Cyberpunk Endless Runner [link]
+- 📊 ML-Based Stock Predictor [link]
+- 🎨 UI Dashboard Redesign [link]
+
+## 🔗 Let's Connect
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin)]([https://www.linkedin.com/in/t-s-tharrun-554869320/])
+[![Portfolio](https://img.shields.io/badge/-Portfolio-orange?style=flat&logo=web)](https://yourportfolio.com)
