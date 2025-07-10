@@ -30,7 +30,7 @@
 ## 🔗 Let's Connect
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/t-s-tharrun-554869320/)  
-[![Portfolio](https://img.shields.io/badge/-Portfolio-orange?style=flat&logo=web)](https://yourportfolio.com)
+[![Portfolio](https://img.shields.io/badge/-Portfolio-orange?style=flat&logo=web)](https://tharrun-portfolio.web.app/)
 
 ---
 
