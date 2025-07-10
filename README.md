@@ -17,7 +17,7 @@
 ## 📈 GitHub Stats
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Tharrun7&show_icons=true&theme=radical)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Tharrun7&layout=compact&css,html&theme=radical)
-[![wakatime](https://wakatime.com/badge/user/xxxxxxxx-xxxx-xxxx-xxxx-xxxxxxxxxxxx.svg)](https://wakatime.com/@yourusername)
+[![wakatime](https://wakatime.com/badge/user/b92573a2-3d23-4ac7-815e-1a3a2b76c94b.svg)](https://wakatime.com/@Tharrun)
 
 
 ---
